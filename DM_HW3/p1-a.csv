@@ -1,0 +1,10 @@
+t001,A,B,D,G,NaN
+t002,B,D,E,NaN,NaN
+t003,A,B,C,E,F
+t004,B,D ,E,G,NaN
+t005,A,B,C,E,F
+t006,B,E,G,NaN,NaN
+t007,A,C,D,E,NaN
+t008,B,E,NaN,NaN,NaN
+t009,A,B,E,F,NaN
+t010,A,C,D,E,NaN
